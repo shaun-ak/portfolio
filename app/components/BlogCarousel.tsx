@@ -55,7 +55,7 @@ const blogPosts: BlogPost[] = [
   {
     id: 5,
     title: "You Don\'t Know JS Yet: My Weekly Journey Through JavaScript Mastery",
-    excerpt: "A journey of how I aspire to become a remote job employee from a full-time Angular developer.",
+    excerpt: "A weekly deep dive into Kyle Simpson's 'You Don't Know JS Yet' series, sharing insights and learnings about JavaScript's core concepts and mechanisms.",
     image: "/ydkjsy.png",
     link: "https://dev.to/shaunak_38/you-dont-know-js-yet-my-weekly-journey-through-javascript-mastery-6lm",
     date: "Mar 2, 2025",
