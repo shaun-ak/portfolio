@@ -65,7 +65,7 @@ export default function RootLayout({
                   <FiTwitter size={20} />
                 </a>
                 <a 
-                  href="https://drive.google.com/file/d/14yo0cqFsV93us9gUD1ziZYUoDyvioOWZ/view?usp=sharing" 
+                  href="https://drive.google.com/file/d/1V6nvjpr7b20sqqMjuRNRpQo2jx9fRnCk/view?usp=sharing" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="social-link resume-link"
