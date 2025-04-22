@@ -7,22 +7,31 @@ export default function WorkExperience() {
       
       <div className="experience-item">
         <div className="experience-header">
-          <h3 className="job-title">Software Engineer – Chubb Studio (Canvas Team)</h3>
+          <h3 className="job-title">Software Engineer</h3>
           <div className="job-meta">
             <span className="company">CHUBB Business Services LLP</span>
             <div className="job-details">
               <span className="location">📍 Hyderabad, Telangana, India</span>
-              <span className="date">⏱️ May 2022 - Present</span>
+              <span className="date">⏱️ Jun 2022 - Present</span>
             </div>
           </div>
         </div>
         <div className="experience-content">
           <ul className="experience-details">
-            <li>Spearheaded the UI upgrade for the admin platform, improving application load time by <strong>30-40%</strong>.</li>
-            <li>Designed and developed a reusable search and filter component, now leveraged across multiple pages for enhanced usability.</li>
-            <li>Experienced in <code>Angular</code> unit testing and <code>Storybook</code> implementation to ensure component reliability and maintainability.</li>
-            <li>Actively contributed to technical and design discussions in an agile environment, providing valuable insights to enhance team efficiency.</li>
-            <li>Recognized for excellence with a <strong>4/5 rating</strong> (Exceeding Expectations) for 2023-24.</li>
+            <li>Built and maintained <strong>enterprise-scale</strong> admin portal used for partner on-boarding and product launches.</li>
+            <li>Refactored frontend API integrations to support a unified global data source architecture, resulting in improved
+<strong>application performance</strong> and enhanced <strong>data consistency</strong> across modules.</li>
+            <li>Led a major UI upgrade for the admin platform, improving <strong>application load times by 30–40%</strong> through performance
+optimization and modern frontend practices.</li>
+            <li>Designed and implemented a <strong>reusable search and filter component</strong> adopted across multiple modules, enhancing
+<strong>user experience</strong> and streamlining development through <strong>improved maintainability</strong> and <strong>code reuse</strong>.</li>
+            <li>Experienced in writing <strong>Angular unit tests</strong> and <strong>implementing Storybook</strong> to ensure component reliability,
+maintainability, and consistent UI documentation.</li>
+            <li>Actively contributed to <strong>technical and design discussions</strong> in an <strong>Agile</strong> environment, offering insights that improved
+team collaboration and development efficiency.</li>
+            <li><strong>Mentored</strong> and <strong>guided</strong> two interns by providing technical support, code reviews, and best practices to strengthen
+their skills in Angular and TypeScript.</li>
+            <li><strong>Recognized for excellence</strong> with a <strong>4/5 rating (Exceeding Expectations) for 2023-24</strong>.</li>
           </ul>
         </div>
       </div>
@@ -40,7 +49,9 @@ export default function WorkExperience() {
         </div>
         <div className="experience-content">
           <ul className="experience-details">
-            <li>Developed the "Applications" section of the Chubb Studio Admin Platform, enabling backend engineers to monitor API health through a user-friendly frontend interface.</li>
+            <li><strong>Developed the "Applications" section</strong> of the Chubb Studio Admin Platform, enabling backend engineers to
+<strong>monitor API health</strong> through a user-friendly frontend interface.</li>
+            <li>Worked closely with senior engineers to improve frontend performance and optimize API requests.</li>
           </ul>
         </div>
       </div>
