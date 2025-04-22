@@ -1,4 +1,4 @@
-import ProjectCarousel from './components/ProjectCarousel';
+import ProjectCards from './components/ProjectCards';
 import WorkExperience from './components/WorkExperience';
 import BlogCarousel from './components/BlogCarousel';
 
@@ -10,7 +10,7 @@ export default function Home() {
         <p>I'm a developer passionate about open source, tech, AI and building tools that help people. I also have fun in the process.</p>
       </section>
       
-      <ProjectCarousel />
+      <ProjectCards />
       
       <BlogCarousel />
       
